@@ -13,6 +13,7 @@ _The index page descibes myself, my hobbies, and some of my accomplishments. Add
 ## Setup/Installation Requirements
 
 #### Browser friendly installation
+
 * _To view you will need to go to https://gabemonteiro.github.io/epicodusproject1_
 
 #### Terminal Friendly Installation (If git has been previously installed)
@@ -34,7 +35,6 @@ _Please contact gabe.c.monteiro@gmail.com for questions, comments, or concerns._
 _HTML, CSS, Atom, GitHub, and Windows 10._
 
 ### License
-
 *_Copyright (c) 2019 Gabe Monteiro_
 
 _Permission is hereby granted, free of charge, to any person obtaining a copy
